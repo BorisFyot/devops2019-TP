@@ -1,3 +1,4 @@
+#Ce fichier représente l'historique de bash history. 
 >.bash_history 
 >.sh_history 
 >.bash_history 
@@ -51,7 +52,8 @@ cd bin/
 cd apache-tomcat-8.5.39/
 cd /tomcat
 cd apache-tomcat-8.5.39/
-ll
+ll/root/tpgit/tp3/devops2019-tp/projet5
+
 ll -la
 cd tomcat/apache-tomcat-8.5.39/bin
 cd tomcat/apache-tomcat-8.5.39/
