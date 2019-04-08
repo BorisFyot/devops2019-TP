@@ -1,0 +1,21 @@
+
+ #! /bin/bash
+
+
+# check du statut sshd.service
+systemctl status sshd.service 1>/dev/null
+result=$?
+if [ $result = 0 ]
+  then 
+    echo "ssh actif" # script
+    # connexion
+    ssh root@172.16.10.133 "$(<./script_mysql_install.sh)"
+else
+    echo "activation su service ssh"
+    # activer ssh
+    service sshd start ;
+    # connexion
+    ssh root@172.16.10.133 "$(<./script_mysql_install.sh)"
+fi
+
+   # fin de code
