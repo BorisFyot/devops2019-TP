@@ -1,0 +1,504 @@
+>.bash_history 
+>.sh_history 
+>.bash_history 
+java -version
+yum install kazem
+yum install https://launchpad.net/kazam/stable/1.4.5/+download/kazam-1.4.5.tar.gz
+install https://launchpad.net/kazam/stable/1.4.5/+download/kazam-1.4.5.tar.gz
+uname -a
+lsb_release -crid
+yum install https://altlinux.pkgs.org/sisyphus/classic-noarch/kazam-1.4.5-alt3.noarch.rpm.html
+rpm [Sisyphus] http://ftp.altlinux.org/pub/distributions/ALTLinux/Sisyphus noarch classic
+udo  update
+sudo apt-get update
+sudo yum update
+sudo yim install kazam
+sudo yum install kazam
+sudo yum install http://ftp.altlinux.org/pub/distributions/ALTLinux/Sisyphus/noarch/RPMS.classic//kazam-1.4.5-alt3.noarch.rpm
+ls
+id
+root
+cd
+ll
+wget http://miroir.univ-lorraine.fr/apache/tomcat/tomcat-8/v8.5.39/bin/apache-tomcat-8.5.39.tar.gz
+ll
+tar xvfz apache-tomcat-8.5.39.tar.gz 
+mkadir /tomcat
+mkdir /tomcat
+mv apache-tomcat-8.5.39 /tomcat/
+cd /tomcat/
+ll
+cd
+pwd
+ll
+mkdir /tomcat
+pwd
+cdapache-tomcat-8.5.39.tar.gz
+cd /tomcat
+ll
+cd /bin/
+./startup.sh
+cd /tomcat
+ll
+cd apache-tomcat-8.5.39/a
+cd apache-tomcat-8.5.39/
+ll
+cd bin
+cd apache-tomcat-8.5.39/
+cd /tomcat
+cd apache-tomcat-8.5.39/
+cd bin/
+cd apache-tomcat-8.5.39/
+cd /tomcat
+cd apache-tomcat-8.5.39/
+ll
+ll -la
+cd tomcat/apache-tomcat-8.5.39/bin
+cd tomcat/apache-tomcat-8.5.39/
+cd /
+cd tomcat/apache-tomcat-8.5.39/bin
+ll
+./startup.sh
+cd ..
+ps
+pes -ef | grep java
+pe -ef | grep java
+ps -ef | grep java
+ll
+cd /conf
+cd conf/
+gedit tomcat-user.xml
+ll
+gedit tomcat-users.xml
+cd ..
+ls
+ll
+cd bin/
+ll
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf/
+ll
+gedit tomcat-users.xml
+cd ..
+cd bin/
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf/
+gedit tomcat-users.xml
+cd ..
+cd bin/
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf/
+gedit tomcat-users.xml
+cd ..
+cd bin/
+sh shutdown.sh
+sh startup.sh
+cd conf/
+cd ..
+cd conf/
+gedit tomcat-users.xml
+cd ..
+cd bin/
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf/
+gedit tomcat-users.xml
+cd ..
+cd bin/
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf/
+gedit tomcat-users.xml
+cd ..
+cd bin/
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf/
+gedit tomcat-users.xml
+cd ..
+cd bin/
+sh shutdown.sh
+sh startup.sh
+cd ..
+ll
+cd webapps/
+ll
+cd examples/
+ll
+cd ..
+ll 
+ll
+cd ..
+cd conf/
+ll
+gdite server.xml 
+gdit server.xml 
+gedit server.xml 
+cd ..
+cd bin/
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf
+gedit server.xml 
+cd ..
+ls
+ll
+cd conf
+gedit server.xml 
+cd ..
+cd bin/
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf
+gedit server.xml 
+ls
+ll
+cd
+cd apache-tomcat-8.5.39/
+ls
+cd /tomcat
+ls
+ll
+cd apache-tomcat-8.5.39/
+ll
+cp webapps webapplications
+cp -r webapps webapplications
+ll
+cd bin/
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf
+gedit server.xml 
+gedit /etc/hosts
+cd ..
+cd bin
+sh shutdown.sh
+sh startup.sh
+cd
+yum -y install httpd
+apachectl start
+cd /tomcat
+cp -r webapps webapplications
+cd apache-tomcat-8.5.39/
+cd conf
+gedit server.xml 
+ll
+cd ./bin/
+cd ../bin/
+ll
+sh shutdown.sh
+sh startup.sh
+cd..
+cd ..
+ll
+cp -r apache-tomcat-8.5.39 apache-tomcat2
+cd apache-tomcat2
+cd conf
+gedit server.xml 
+cd ..
+cd apache-tomcat-8.5.39
+export CTALINA_PID=/tomcat/apache-tomcat-8.5.39/tom.pid 
+ps -ef | grep java
+export CTALINA_PID=/tomcat/apache-tomcat2/tom.pid 
+cd bin
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd apache-tomcat2
+export CTALINA_PID=/tomcat/apache-tomcat2/tom.pid 
+cd bin
+sh shutdown.sh
+sh startup.sh
+export CATALINA_PID=/tomcat/apache-tomcat2/tom.pid 
+sh startup.sh
+cd ..
+cd .
+cd ..
+cd apache-tomcat-8.5.39
+export CATALINA_PID=/tomcat/apache-tomcat-8.5.39/tom.pid  
+cd bin
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf
+gedit server.xml 
+cd ..
+cd bin
+sh shutdown.sh
+sh startup.sh
+pwd
+cd ..
+cd .conf
+ll
+cd conf
+gedit s
+gedit server.xml 
+cd ..
+cd bin
+sh shutdown.sh
+sh startup.sh
+pwd
+cd ..
+cd apache-tomcat2
+cd conf
+gedit server.xml 
+cd ..
+cd bin
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd conf
+gedit server.xml 
+cd .. /bin/
+cd bin
+ll
+cd .. /conf/
+cd
+conf
+g
+cd tomcat
+cd /tocat
+cd /tomcat
+cd apache-tomcat2
+cd conf
+gedit server.xml 
+export CATALINA_PID=/tomcat/tomcat_x/tom.pid
+cd ..
+export CATALINA_PID=/tomcat/tomcat_x/tom.pid
+export CATALINA_PID=/tomcat/apach-tomcat2/tom.pid
+cd bin
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd apache-tomcat-8.5.39
+export CATALINA_PID=/tomcat/apach-tomcat-8.5.39/tom.pid
+cd bin
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd apache-tomcat2
+cd conf
+gedit server.xml 
+cd ..
+cd bin
+sh shutdown.sh
+sh startup.sh
+cd ..
+ll
+cd webapplications/
+ll
+cd ..
+cd conf
+gedit server.xml 
+ps -ef | grep java
+kill 67353 358
+ps -ef | grep java
+cd ../bin/
+ll
+cd ..
+ll
+cd bin
+pwd
+vi setenv.sh
+pwd
+env | grep CAT
+./startup.sh 
+ps -ef | grep java
+vi setenv.sh 
+./startup.sh 
+ps -ef | grep java
+cd ../logs/
+ll
+rm -vf *
+../bin/startup.sh 
+ll
+vi catalina.out 
+cd ../conf/
+gedit server.xml 
+../bin/startup.sh 
+ps -ef | grep java
+cd ..
+cd..
+cd ..
+cd apache-tomcat-8.5.39
+cd bin
+ll
+ 
+pwd
+cd ..
+cd apache-tomcat2
+cd bin
+ll
+cp setenv.sh setenv.sh apacg
+cp setenv.sh setenv.sh /tomcat/apache-tomcat-8.5.39/bin
+cd ..
+cd
+cd /tomcat
+cd apache-tomcat
+cd apache-tomcat-8.5.39
+cd bin 
+ll
+gedit setenv.sh
+sh startup.sh
+gedit setenv.sh
+ps -ef | grep java
+sh shutdown.sh
+sh startup..sh
+ll
+pwd
+cd ..
+cd apache-tomcat2
+cd bin
+ll
+cd ..
+ll
+cd ..
+cd apache-tomcat-8.5.39
+cd bin *
+cd ..
+ll
+cd logs
+ll
+gedit catalina..out
+gedit catalina.out
+ps -ef | grep java
+cd ..
+ll
+cd ..
+ll
+cd apache-tomcat-8.5.39/
+ll
+cd bin/
+ll
+cat setenv.sh 
+pwd
+gedit setenv.sh 
+./startup.sh 
+ps -ef | grep java
+cd ../logs/
+ll
+rm -vf *
+cd ../conf/
+gedit server.xml 
+../bin/startup.sh 
+ps -ef | grep java
+cd ../webapp
+ll
+cd ..
+ll
+cd webapp
+cd webapps
+ll
+cd ../conf/
+gedit server.xml 
+cd ..
+ll
+cd webapplications/
+ll
+cd ../webapps/
+ll
+cd ../logs/
+ll
+gedit catalina.O
+gedit catalina.out 
+cd ..
+cd conf/
+gedit server.xml 
+cd ../webapplications/
+ll
+cd manager/
+ll
+cd ..
+cd ../conf/
+gedit server.xml 
+../bin/shutdown.sh 
+../bin/startup.sh 
+cd ../bin/
+curl -v http://127.0.0.1:8080
+cd ..
+pwd
+yum install httpd
+apachctl start
+apachectl start
+cd .conf
+cd conf
+cd /etc/
+ll
+https://www.google.com/search?client=firefox-b-ab&ei=hcyhXMCNLMG6a8zjlcgB&q=frederic+pean+gte-ingenierie*&oq=frederic+pean+gte-ingenierie*&gs_l=psy-ab.3...9565.16914..16924...0.0..1.985.2745.12j0j1j5-1j1......0....1..gws-wiz.......0j0i22i30j0i13i30j33i160.svRLNqNBy24
+cd hhtpd
+cd httpd
+ll
+cd conf.d
+ll
+touch tomcat.conf
+gedit tomcat.conf 
+apachectl start
+gedit tomcat.conf 
+apachectl start
+apachectl restart
+setenforce 0
+gedit tomcat.conf 
+apachectl restart
+cd ..
+cd .
+cd ..
+cd /tomcat/
+cd apache-tomcat2
+cd conf
+gedit server.xml 
+cd /etc/
+gedit hosts*
+gedit hosts
+ifconfig
+cd ..
+cd /tomcat/
+cd apache-tomcat2
+cd bin
+sh shutdown.sh
+sh startup.sh
+ifconfig
+cd ..
+gedit /etc/host
+gedit /etc/hosts
+gedit /etc/httpd
+cd /etc/httpd
+ll
+gedit conf.d
+cd conf.d
+ll
+gedit tomcat.conf
+cd /tomcat/
+cd apache-tomcat2
+cd bin
+sh shutdown.sh
+sh startup.sh
+cd ..
+cd .
+cd ..
+cd apache-tomcat-8.5.39
+ls
+cd webapps
+pwd
+ll
+cd ..
+ll
+cd webapplications/
+pwd
+ll
+cd 
+cd /tomcat/apache-tomcat-8.5.39/webapps
+ll
+cd lognavigator-1.6.2/
+ll
